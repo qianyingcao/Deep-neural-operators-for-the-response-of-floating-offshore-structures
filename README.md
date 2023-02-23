@@ -9,7 +9,7 @@ Deep neural operators can predict the real-time response of floating offshore st
 
 This Git repository contains codes for the **'Deep neural operators for the response of floating offshore structures'** paper which can be found here: [https://arxiv.org/abs/2302.06667](https://arxiv.org/abs/2302.06667).
 
-Authors: [Qianying Cao](https://scholar.google.com/citations?user=wifh8KsAAAAJ&hl=en&oi=ao)
+Authors: [Qianying Cao](https://scholar.google.com/citations?user=wifh8KsAAAAJ&hl=en&oi=ao),
 [Somdatta Goswami](https://scholar.google.com/citations?user=GaKrpSkAAAAJ&hl=en&oi=sra), [George Em Karniadakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en), [Souvik Chakraborty](https://scholar.google.com/citations?user=CoYoAQEAAAAJ&hl=en)
 
 ## Methods
